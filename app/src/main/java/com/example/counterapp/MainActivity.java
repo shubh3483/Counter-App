@@ -12,6 +12,10 @@ public class MainActivity extends AppCompatActivity {
     private int qty = 0;
     ActivityMainBinding b;
 
+    /**
+     * Event Handlers
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -39,6 +43,9 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    /**
+     * Utils
+     */
     private void decQty() {
         b.resultTextView.setText(""+ --qty);
     }
