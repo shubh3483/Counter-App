@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        b.incQty.setOnClickListener(new View.OnClickListener() {
+        b.decQty.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 decQty();
