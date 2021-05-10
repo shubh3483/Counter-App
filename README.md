@@ -1,6 +1,6 @@
 This is a very basic app which is a counter app.
 
-Apk for this app : https://github.com/shubh3483/Counter-App/releases/download/5.1.1/app-debug.apk
+Apk for this app : https://github.com/shubh3483/Counter-App/releases/download/5.1.2/Counter-App1.apk
 
 The screenshot of the app is also attached below.
 
